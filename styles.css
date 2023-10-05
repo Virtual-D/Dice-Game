@@ -1,0 +1,32 @@
+body{
+    background-color: #4F709C;
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+
+h1{
+    margin: 30px;
+    font-family: 'AR One Sans', sans-serif;
+    text-shadow: 5px 0 #232931;
+    font-size: 5rem;
+    color: #8ECDDD;
+}
+
+p{
+    font-size: 2rem;
+    color: #F0F0F0;
+    font-family: 'Lato', sans-serif;
+}
+
+img{
+    width: 80%;
+}
